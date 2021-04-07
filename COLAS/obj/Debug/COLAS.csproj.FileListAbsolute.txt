@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\COLAS\bin\Debug\COLAS.exe.config
+C:\Users\User\source\repos\COLAS\bin\Debug\COLAS.exe
+C:\Users\User\source\repos\COLAS\bin\Debug\COLAS.pdb
+C:\Users\User\source\repos\COLAS\obj\Debug\COLAS.csprojAssemblyReference.cache
+C:\Users\User\source\repos\COLAS\obj\Debug\COLAS.Form1.resources
+C:\Users\User\source\repos\COLAS\obj\Debug\COLAS.Properties.Resources.resources
+C:\Users\User\source\repos\COLAS\obj\Debug\COLAS.csproj.GenerateResource.cache
+C:\Users\User\source\repos\COLAS\obj\Debug\COLAS.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\COLAS\obj\Debug\COLAS.exe
+C:\Users\User\source\repos\COLAS\obj\Debug\COLAS.pdb
