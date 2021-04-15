@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\mendoza-trabajoAulaa\listasEnlazadas\obj\Debug\listasEnlazadas.csprojAssemblyReference.cache
+C:\Users\User\source\repos\mendoza-trabajoAulaa\listasEnlazadas\obj\Debug\listasEnlazadas.Form1.resources
+C:\Users\User\source\repos\mendoza-trabajoAulaa\listasEnlazadas\obj\Debug\listasEnlazadas.Properties.Resources.resources
+C:\Users\User\source\repos\mendoza-trabajoAulaa\listasEnlazadas\obj\Debug\listasEnlazadas.csproj.GenerateResource.cache
+C:\Users\User\source\repos\mendoza-trabajoAulaa\listasEnlazadas\obj\Debug\listasEnlazadas.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\mendoza-trabajoAulaa\listasEnlazadas\bin\Debug\listasEnlazadas.exe.config
+C:\Users\User\source\repos\mendoza-trabajoAulaa\listasEnlazadas\bin\Debug\listasEnlazadas.exe
+C:\Users\User\source\repos\mendoza-trabajoAulaa\listasEnlazadas\bin\Debug\listasEnlazadas.pdb
+C:\Users\User\source\repos\mendoza-trabajoAulaa\listasEnlazadas\obj\Debug\listasEnlazadas.exe
+C:\Users\User\source\repos\mendoza-trabajoAulaa\listasEnlazadas\obj\Debug\listasEnlazadas.pdb
