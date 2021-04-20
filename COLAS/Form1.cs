@@ -17,26 +17,28 @@ namespace COLAS
             InitializeComponent();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        public void Form1_Load(object sender, EventArgs e)
         {
 
         }
 
-        private void btnINSERTAR_Click(object sender, EventArgs e)
+        public void btnINSERTAR_Click(object sender, EventArgs e)
         {
             //Generamos numeros aleatorios
             Random numero = new Random();
-            int n = numero.Next(1, 99);
+            int n = numero.Next(1, 100);
 
             //Adjunta el num generado al listbox
             ListaColas.Items.Add(n.ToString());
 
         }
 
-        private void btnELIMINAR_Click(object sender, EventArgs e)
+        public void btnELIMINAR_Click(object sender, EventArgs e)
         {
             //Eliminamos los numeros del listbox empezando por el primer que entro
             ListaColas.Items.RemoveAt(0);
         }
+
+       
     }
 }

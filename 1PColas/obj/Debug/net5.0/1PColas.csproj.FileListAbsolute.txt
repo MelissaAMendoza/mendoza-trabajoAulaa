@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\mendoza-trabajoAulaa\1PColas\obj\Debug\net5.0\1PColas.csprojAssemblyReference.cache
+C:\Users\User\source\repos\mendoza-trabajoAulaa\1PColas\obj\Debug\net5.0\1PColas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\mendoza-trabajoAulaa\1PColas\obj\Debug\net5.0\1PColas.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\mendoza-trabajoAulaa\1PColas\obj\Debug\net5.0\1PColas.AssemblyInfo.cs
+C:\Users\User\source\repos\mendoza-trabajoAulaa\1PColas\obj\Debug\net5.0\1PColas.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\mendoza-trabajoAulaa\1PColas\bin\Debug\net5.0\1PColas.exe
+C:\Users\User\source\repos\mendoza-trabajoAulaa\1PColas\bin\Debug\net5.0\1PColas.deps.json
+C:\Users\User\source\repos\mendoza-trabajoAulaa\1PColas\bin\Debug\net5.0\1PColas.runtimeconfig.json
+C:\Users\User\source\repos\mendoza-trabajoAulaa\1PColas\bin\Debug\net5.0\1PColas.runtimeconfig.dev.json
+C:\Users\User\source\repos\mendoza-trabajoAulaa\1PColas\bin\Debug\net5.0\1PColas.dll
+C:\Users\User\source\repos\mendoza-trabajoAulaa\1PColas\bin\Debug\net5.0\ref\1PColas.dll
+C:\Users\User\source\repos\mendoza-trabajoAulaa\1PColas\bin\Debug\net5.0\1PColas.pdb
+C:\Users\User\source\repos\mendoza-trabajoAulaa\1PColas\obj\Debug\net5.0\1PColas.dll
+C:\Users\User\source\repos\mendoza-trabajoAulaa\1PColas\obj\Debug\net5.0\ref\1PColas.dll
+C:\Users\User\source\repos\mendoza-trabajoAulaa\1PColas\obj\Debug\net5.0\1PColas.pdb
+C:\Users\User\source\repos\mendoza-trabajoAulaa\1PColas\obj\Debug\net5.0\1PColas.genruntimeconfig.cache
