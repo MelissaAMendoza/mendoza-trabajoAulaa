@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ListasEj4\ListasEj4\bin\Debug\netcoreapp3.1\ListasEj4.exe
+C:\Users\User\source\repos\ListasEj4\ListasEj4\bin\Debug\netcoreapp3.1\ListasEj4.deps.json
+C:\Users\User\source\repos\ListasEj4\ListasEj4\bin\Debug\netcoreapp3.1\ListasEj4.runtimeconfig.json
+C:\Users\User\source\repos\ListasEj4\ListasEj4\bin\Debug\netcoreapp3.1\ListasEj4.runtimeconfig.dev.json
+C:\Users\User\source\repos\ListasEj4\ListasEj4\bin\Debug\netcoreapp3.1\ListasEj4.dll
+C:\Users\User\source\repos\ListasEj4\ListasEj4\bin\Debug\netcoreapp3.1\ListasEj4.pdb
+C:\Users\User\source\repos\ListasEj4\ListasEj4\obj\Debug\netcoreapp3.1\ListasEj4.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ListasEj4\ListasEj4\obj\Debug\netcoreapp3.1\ListasEj4.AssemblyInfo.cs
+C:\Users\User\source\repos\ListasEj4\ListasEj4\obj\Debug\netcoreapp3.1\ListasEj4.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ListasEj4\ListasEj4\obj\Debug\netcoreapp3.1\ListasEj4.dll
+C:\Users\User\source\repos\ListasEj4\ListasEj4\obj\Debug\netcoreapp3.1\ListasEj4.pdb
+C:\Users\User\source\repos\ListasEj4\ListasEj4\obj\Debug\netcoreapp3.1\ListasEj4.genruntimeconfig.cache
